@@ -24,7 +24,9 @@ namespace Kurs_csh
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.ShowDialog();
+            this.Close();
         }
     }
 }
