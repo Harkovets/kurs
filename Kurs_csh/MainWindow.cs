@@ -26,5 +26,10 @@ namespace Kurs_csh
         {
 
         }
+
+        private void btnExport_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
