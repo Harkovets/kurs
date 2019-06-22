@@ -125,5 +125,11 @@
       <Link>Resources\export.png</Link>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photouser.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit2.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
